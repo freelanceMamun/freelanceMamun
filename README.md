@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=freelancemamun&label=Profile%20views&color=0e75b6&style=flat" alt="freelancemamun" /> </p>
 
-https://cdnl.iconscout.com/lottie/premium/thumb/employee-communicating-6128439-5073101.mp4
-
+<video autoplay loop src="https://cdnl.iconscout.com/lottie/premium/thumb/web-designer-5714905-4761463.mp4"></video>
 
 <p align="left"> <a href="https://twitter.com/muhammadmamunwp" target="blank"><img src="https://img.shields.io/twitter/follow/muhammadmamunwp?logo=twitter&style=for-the-badge" alt="muhammadmamunwp" /></a> </p>
 
