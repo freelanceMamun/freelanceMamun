@@ -2,9 +2,6 @@
 <h3 align="left">I specialize in Front-end custom coding design,brand strategy,and Webflow development. India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=freelancemamun&label=Profile%20views&color=0e75b6&style=flat" alt="freelancemamun" /> </p>
-
-<video autoplay loop src="https://cdnl.iconscout.com/lottie/premium/thumb/web-designer-5714905-4761463.mp4"></video>
-
 <p align="left"> <a href="https://twitter.com/muhammadmamunwp" target="blank"><img src="https://img.shields.io/twitter/follow/muhammadmamunwp?logo=twitter&style=for-the-badge" alt="muhammadmamunwp" /></a> </p>
 
 - 🌱 I’m currently learning **Node Js**
@@ -15,6 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+
 <a href="https://twitter.com/muhammadmamunwp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muhammadmamunwp" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammad-mamun-5010b3265/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-mamun-5010b3265/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/mamun16345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mamun16345" height="30" width="40" /></a>
