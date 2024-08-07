@@ -8,14 +8,14 @@ Greetings. I'm a skilled full-stack developer passionate about translating ideas
 
 - 🌱 I’m currently learning **Node Js**
 
-- 👨‍💻 All of my projects are available at [https://my-profile-app-navy.vercel.app/](https://my-profile-app-navy.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://my-profile-app-navy.vercel.app/](https://dev-mamun-khan.netlify.app/)
 
 - 📫 How to reach me **mamunkhan16345@gmail.com**
 
 
 - 💬 Loves to Talk about Technology, Software, Coding, And Ideas
 - 🤝 Open for Collaboration, Excited to collaborate on innovative projects.
-- 🌱 Explorering Go, Database,Linux, AWS etc.
+- 🌱 Explorering Go, Database, Linux, AWS etc.
 
 #### Specialized In [ Front End ]
 
@@ -31,28 +31,28 @@ Greetings. I'm a skilled full-stack developer passionate about translating ideas
 
 #### Contact Info
 
-<a href="mailto:mdkawsarislam2002@gmail.com">
+<a href="">
     <img src="https://img.shields.io/badge/Email_me-323330?style=for-the-badge&logo=Gmail&logoColor=white" />
 </a>
-<a href="https://yeasin2002.netlify.app/">
+<a href="">
    <img src="https://img.shields.io/badge/Portfolio-323330?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
 </a>
- <a href="https://www.linkedin.com/in/yeasin2002/">
+ <a href="">
        <img src="https://img.shields.io/badge/Linkedin-323330?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     
- <a href="https://www.facebook.com/yeasin2002.dev/">
+ <a href="">
        <img src="https://img.shields.io/badge/Facebook-323330?style=for-the-badge&logo=facebook&logoColor=white" />
     </a>
  
-  <a href="https://twitter.com/yeasin2002_dev">
+  <a href="">
        <img src="https://img.shields.io/badge/Twitter-323330?style=for-the-badge&logo=twitter&logoColor=white" />
     </a>
-<a href="https://leetcode.com/yeasin2002">
+<a href="">
        <img src="https://img.shields.io/badge/leetcode-323330?style=for-the-badge&logo=leetcode&logoColor=white" />
     </a>
 
-<a href="https://dev.to/yeasin2002">
+<a href="">
        <img src="https://img.shields.io/badge/dev.to-323330?style=for-the-badge&logo=dev.to&logoColor=white" />
     </a>
 
