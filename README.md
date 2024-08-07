@@ -76,20 +76,8 @@
 <br  />
 
 <details >
-<summary>  <h4 > 📈 GitHub States (Click to Open) </h4> </summary>
-<be>
 
-![yeasin2002's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yeasin2002&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact)
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=freelanceMamun&show_icons=true)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=freelanceMamun&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-[![Leetcode Stats](https://leetcard.jacoblin.cool/yeasin2002)](https://leetcode.com/freelanceMamun)
-
-</details>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&fontSize=20"  /></p>
 
 
 
