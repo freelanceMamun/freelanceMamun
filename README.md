@@ -36,7 +36,7 @@
 
 #### Specialized In [ Front End ]
 
-<img src="https://skillicons.dev/icons?i=ts,next,tailwind,redux" /> <img src="./public/icons/zustand.svg" width="50" /> <img src="./public/icons/react-query.svg" width="50" />
+<img src="https://skillicons.dev/icons?i=ts,next,tailwind,redux" /> <img src="https://w7.pngwing.com/pngs/79/518/png-transparent-js-react-js-logo-react-react-native-logos-icon-thumbnail.png" width="50" /> <img src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" width="50" />
 
 #### Familiar with [ Back End ]
 
