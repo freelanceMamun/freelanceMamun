@@ -17,14 +17,6 @@ Greetings. I'm a skilled full-stack developer passionate about translating ideas
 - 🤝 Open for Collaboration, Excited to collaborate on innovative projects.
 - 🌱 Explorering Go, Database, Linux, AWS etc.
 
-<h3 align="left">Client Review in market Place</h3>
-
-<p><img align="left" src="https://res.cloudinary.com/daav4j7jt/image/upload/v1724094480/kdiscyr6tetk6fmrghcx.png" alt="freelancemamun" /></p>
- <br>
- <br>
- <br>
- <br>
-
 <h3 align="">Specialized In [ Front End ]</h3>
 
 <img src="https://skillicons.dev/icons?i=ts,next,tailwind,redux" /> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW3Rlc7xaKXDRc67zoXeoNbzQRgd8-nsq6dA&s" width="50" /> <img src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" width="50" />
@@ -66,9 +58,11 @@ Greetings. I'm a skilled full-stack developer passionate about translating ideas
 
 <br  />
 
+<h3 align="left">Client Review in market Place</h3>
 
-
-
+<p><img align="left" src="https://res.cloudinary.com/daav4j7jt/image/upload/v1724094480/kdiscyr6tetk6fmrghcx.png" alt="freelancemamun" /></p>
+<br  />
+<br  />
 
 <h3 align="left">Connect with me:</h3>
 <br  />
