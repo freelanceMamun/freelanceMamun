@@ -58,10 +58,6 @@ Greetings. I'm a skilled full-stack developer passionate about translating ideas
 
 <br  />
 
-<h3 align="left">Client Review in market Place</h3>
-
-<p><img align="left" src="https://res.cloudinary.com/daav4j7jt/image/upload/v1724094480/kdiscyr6tetk6fmrghcx.png" alt="freelancemamun" /></p>
-
 
 <h3 align="left">Connect with me:</h3>
 <br  />
