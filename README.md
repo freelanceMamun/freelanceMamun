@@ -22,12 +22,11 @@ Greetings. I'm a skilled full-stack developer passionate about translating ideas
 <p><img align="left" src="https://res.cloudinary.com/daav4j7jt/image/upload/v1724094480/kdiscyr6tetk6fmrghcx.png" alt="freelancemamun" /></p>
 
 
-
-#### Specialized In [ Front End ]
+<h3 align="left">Specialized In [ Front End ]</h3>
+#### 
 
 <img src="https://skillicons.dev/icons?i=ts,next,tailwind,redux" /> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW3Rlc7xaKXDRc67zoXeoNbzQRgd8-nsq6dA&s" width="50" /> <img src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" width="50" />
-
-#### Familiar with [ Back End ]
+<h3 align="left">Familiar with [ Back End ]</h3>
 
 ![Back End](https://skillicons.dev/icons?i=nodejs,express,mongodb,prisma)
 
